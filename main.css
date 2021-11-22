@@ -1,0 +1,55 @@
+.marginOne{
+    height: 100vh;
+    width: 8vw;
+    background-color: brown;
+    margin-right: 1vw;
+}
+.marginTwo{
+    height: 100vh;
+    width: 8vw;
+    background-color: black;
+    margin-left: 1vw;
+}
+.mainBox{
+    width: 80vw;
+    height: 100vh;
+    background-color: aqua;
+}
+.container{
+    display: flex;
+}
+.gallery{
+    height: 40vh;
+    width: 60vw;
+    background-color: chartreuse;
+}
+.buyBox{
+    width: 38vw;
+    height: 35vh;
+    background-color: crimson;
+
+}
+.Title{
+height: 3vh;
+width: 38vw;
+background-color: darkolivegreen;
+margin-bottom: 2vh;
+}
+.first{
+    display: flex;
+}
+.bottomOne{
+    margin-top: 5vh;
+    height: 25vh;
+    width: 80vw;
+    background-color: deeppink;
+    margin-bottom: 1vh;
+}
+.bottomTwo{
+    height: 25vh;
+    width: 80vw;
+    background-color: deeppink;
+}
+.secondGal{
+    margin-left: 1vw;
+}
